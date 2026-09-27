@@ -1,0 +1,15 @@
+{
+	"name": "nesteddata",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "swedencentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "fea12fe9-196c-48f9-825f-9472a12e4b42",
+		"tenantId": "fe919b0d-cb21-4859-bc26-2c9e631b1d72"
+	}
+}
